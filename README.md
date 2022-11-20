@@ -1,5 +1,5 @@
-# proyecto condiciones javascript
+# Proyecto Funciones Javascript
 
 ## puedes ver el proyecto aquí
 
-- [Aquí]()
+- [Aquí](https://imjuanb.github.io/Funciones/)
